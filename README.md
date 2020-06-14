@@ -8,3 +8,4 @@ python3 shredder.py <arguments>
 -p (--passes):       specify the amount of passes
 -m (--max-filename)  specify the max filename length
 ```
+![alt-text](https://github.com/rdbo/shredder.py/blob/master/shredder.png)
