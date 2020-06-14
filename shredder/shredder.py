@@ -45,7 +45,7 @@ def shred_file(path : str, passes : int, max_filename : int):
             
 
 def shredder(files : list, dirs : list, passes : int, max_filename : int):
-    delay = 0.75
+    delay = 0.5
     separate_str = "--------------------"
 
     print("<< shredder.py by rdbo >>")
